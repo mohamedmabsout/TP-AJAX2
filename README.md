@@ -20,49 +20,31 @@ L'application  offre les fonctionnalités suivantes :
 - **Gestion des Marques** : Vous pouvez gérer les informations sur les marques notamment leurs Id,	Code, Libelle.
 
  ## Les interfaces de l'application 
- ### Page d'Accueil (Home)
-- La page d'accueil est la première interface que les utilisateurs voient lorsqu'ils accèdent à l'application. Elle présente un aperçu du système.
-- Sur cette page, un **Pie Chart** est affiché pour montrer le nombre total de machines enregistrées dans le système par marque.
-  
- <img width="960" alt="image" src="https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/95500669-7748-405d-a61a-e8d21edb7dc8">
-
 
   
  ### Gestion des Étudiants
-- Cette interface permet aux utilisateurs de gérer les données relatives aux étudiants enregistrés dans le système.
-- Elle affiche un tableau contenant des informations sur les étudiants.
 
-  ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/f88f96cd-c50c-4d17-8113-4cdc8e4640fe)
+![gestion etud mabsout](https://github.com/mohamedmabsout/TP-AJAX2/assets/147514368/5ef87aa7-f0dd-4e94-a28a-8cc4897255cf)
 
- #### Supression d'un etudiant 
- 
-![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/73edea6d-4eab-4a64-80e9-0b30604b2911)
-
- ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/02ff0b5f-761f-462f-af9b-fc41059f7d0f)
-
-
-  #### Modification d'un etudiant 
-
-  ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/5c64850e-0fcb-48d7-be7a-8a8d48834894)
 
 ### Gestion des Machines
 
-- Cette interface est dédiée à la gestion des informations sur les machines.
-- Elle présente un tableau affichant des données détaillées sur les machines
-  
-  ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/9f873ecc-d050-4276-bb72-50c06692ec2d)
+![gestion d macchine mabsout](https://github.com/mohamedmabsout/TP-AJAX2/assets/147514368/e03595ed-fe85-4d29-81ba-0a7328062afc)
+
 
   ### Gestion des Marques
   
-  L'interface de gestion des marques est conçue pour permettre aux utilisateurs de gérer les informations sur les marques de machines.
+  ![gstion d marque mabsout](https://github.com/mohamedmabsout/TP-AJAX2/assets/147514368/66d06b58-b240-44d6-a9a1-e735d63fae08)
 
-  ![image](https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/c5bcfab7-97f7-4eb4-952f-5431000c2bbb)
+  ### Gestion des Machines par Marques
 
-    ### Gestion des Machines par Marques
-  - Cette interface offre une vue filtrée des machines en fonction de leur marque.
-  - Les utilisateurs peuvent sélectionner une marque spécifique dans une liste déroulante ou en utilisant des filtres et voir la liste des machines associées à cette marque.
+  ![machine par ref](https://github.com/mohamedmabsout/TP-AJAX2/assets/147514368/e045ba98-0a23-4fbc-9b7c-072a6dcc994b)
 
-   <img width="958" alt="image" src="https://github.com/Kenza-raki/TP-AJAX2/assets/116951093/89a42706-78c9-4d4b-b42e-09d1e519ff20">
+  
+  ### Gestion des Machines par Référence
+
+  ![machine par ref](https://github.com/mohamedmabsout/TP-AJAX2/assets/147514368/7e61f034-8f5f-46e8-9f3f-695af417a1b1)
+
 
    ## Comment Démarrer le projet
 
